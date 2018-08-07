@@ -1,0 +1,35 @@
+3070234088
+susyduran740@gmail.com
+
+SEGUROS VIVIR
+2521-8306
+sta sandra carolina figueroa
+
+https://www.youtube.com/watch?v=tt-4YxLYMjQ&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=10
+
+conexon:
+https://www.youtube.com/watch?v=OgmHbeqeZ1M
+
+
+DUI: 01744376-4
+
+
+
+
+ORDENAR TABLA
+https://www.youtube.com/watch?v=uukeMxsOcXo
+
+=IF(G5="",0,IF(G13&I13=G5&I5,3,IF(G5>I5,IF(G13>I13,2,0),IF(I5>G5,IF(I13>G13,2,0),IF(G13&G5=I13&I5,2,0)))))
+
+
+codenvy.io
+
+
+CRUD min 7
+https://www.youtube.com/watch?v=65WgYJ5neMM&list=PL-Mlm_HYjCo_uketceEXL4CuoPf9t38FZ&index=3
+
+JAVA SWING min 24
+https://www.youtube.com/watch?v=YJE-f7qw0Rw     
+
+registro de usuarios en java y mysql en netbeans
+https://www.youtube.com/watch?v=8viGJcscOmc
